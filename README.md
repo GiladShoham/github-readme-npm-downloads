@@ -77,6 +77,7 @@ All of my npm packages and their downloads
 | [@teambit/design.ui.styles.ellipsis](https://www.npmjs.com/package/@teambit/design.ui.styles.ellipsis)                                                                         | 110008       |
 | [@teambit/component-issues](https://www.npmjs.com/package/@teambit/component-issues)                                                                                           | 108235       |
 | [@teambit/component-descriptor](https://www.npmjs.com/package/@teambit/component-descriptor)                                                                                   | 106014       |
+| [@teambit/base-ui.hook.use-click-outside](https://www.npmjs.com/package/@teambit/base-ui.hook.use-click-outside)                                                               | 105235       |
 | [@teambit/ui-foundation.ui.react-router.use-query](https://www.npmjs.com/package/@teambit/ui-foundation.ui.react-router.use-query)                                             | 103704       |
 | [@teambit/design.ui.empty-box](https://www.npmjs.com/package/@teambit/design.ui.empty-box)                                                                                     | 102525       |
 | [@teambit/toolbox.network.get-port](https://www.npmjs.com/package/@teambit/toolbox.network.get-port)                                                                           | 91388        |
@@ -123,7 +124,6 @@ All of my npm packages and their downloads
 | [@teambit/evangelist.elements.x-button](https://www.npmjs.com/package/@teambit/evangelist.elements.x-button)                                                                   | 63810        |
 | [@teambit/modules.mdx-compiler](https://www.npmjs.com/package/@teambit/modules.mdx-compiler)                                                                                   | 62676        |
 | [@teambit/design.ui.icon-button](https://www.npmjs.com/package/@teambit/design.ui.icon-button)                                                                                 | 62602        |
-| [@teambit/workspace.ui.workspace-component-card](https://www.npmjs.com/package/@teambit/workspace.ui.workspace-component-card)                                                 | 62519        |
 | [@teambit/preview.ui.component-preview](https://www.npmjs.com/package/@teambit/preview.ui.component-preview)                                                                   | 62304        |
 | [@teambit/mdx.ui.docs.snippet](https://www.npmjs.com/package/@teambit/mdx.ui.docs.snippet)                                                                                     | 62128        |
 | [@teambit/modules.mdx-loader](https://www.npmjs.com/package/@teambit/modules.mdx-loader)                                                                                       | 61684        |
@@ -260,5 +260,5 @@ All of my npm packages and their downloads
 | [@teambit/angular-templates](https://www.npmjs.com/package/@teambit/angular-templates)                                                                                         | 313          |
 | [@teambit/workspace-config-files](https://www.npmjs.com/package/@teambit/workspace-config-files)                                                                               | 246          |
 | [@teambit/design.navigation.responsive-navbar](https://www.npmjs.com/package/@teambit/design.navigation.responsive-navbar)                                                     | 118          |
-| **Sum**                                                                                                                                                                        | **26101910** |
+| **Sum**                                                                                                                                                                        | **26144626** |
 <!-- AUTO-GENERATED-CONTENT:END -->
