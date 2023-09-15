@@ -235,22 +235,22 @@ All of my npm packages and their downloads
 | [@teambit/design.ui.input.icon-text](https://www.npmjs.com/package/@teambit/design.ui.input.icon-text)                                                                                     | 5559         |
 | [@teambit/api-reference.renderers.parameter](https://www.npmjs.com/package/@teambit/api-reference.renderers.parameter)                                                                     | 5493         |
 | [@teambit/api-reference.renderers.type-literal](https://www.npmjs.com/package/@teambit/api-reference.renderers.type-literal)                                                               | 5343         |
+| [@teambit/api-reference.renderers.interface](https://www.npmjs.com/package/@teambit/api-reference.renderers.interface)                                                                     | 5295         |
 | [@teambit/api-reference.renderers.enum](https://www.npmjs.com/package/@teambit/api-reference.renderers.enum)                                                                               | 5288         |
+| [@teambit/api-reference.renderers.type](https://www.npmjs.com/package/@teambit/api-reference.renderers.type)                                                                               | 5184         |
 | [@teambit/component.ui.component-compare.utils.sort-logs](https://www.npmjs.com/package/@teambit/component.ui.component-compare.utils.sort-logs)                                           | 4830         |
 | [@teambit/design.ui.skeletons.sidebar-loader](https://www.npmjs.com/package/@teambit/design.ui.skeletons.sidebar-loader)                                                                   | 4632         |
 | [@teambit/design.ui.tag-label](https://www.npmjs.com/package/@teambit/design.ui.tag-label)                                                                                                 | 4603         |
 | [@teambit/design.surfaces.selectable](https://www.npmjs.com/package/@teambit/design.surfaces.selectable)                                                                                   | 4544         |
-| [@teambit/api-reference.utils.schema-node-signature-transform](https://www.npmjs.com/package/@teambit/api-reference.utils.schema-node-signature-transform)                                 | 3959         |
 | [@teambit/component.ui.artifacts.models.component-artifacts-model](https://www.npmjs.com/package/@teambit/component.ui.artifacts.models.component-artifacts-model)                         | 3892         |
 | [@teambit/component.ui.artifacts.queries.use-component-artifacts](https://www.npmjs.com/package/@teambit/component.ui.artifacts.queries.use-component-artifacts)                           | 3836         |
 | [@teambit/angular-v16](https://www.npmjs.com/package/@teambit/angular-v16)                                                                                                                 | 3830         |
-| [@teambit/api-reference.utils.group-schema-node-by-signature](https://www.npmjs.com/package/@teambit/api-reference.utils.group-schema-node-by-signature)                                   | 3737         |
 | [@teambit/angular-templates](https://www.npmjs.com/package/@teambit/angular-templates)                                                                                                     | 3708         |
-| [@teambit/api-reference.utils.copy-schema-node](https://www.npmjs.com/package/@teambit/api-reference.utils.copy-schema-node)                                                               | 3604         |
 | [@teambit/angular-preview](https://www.npmjs.com/package/@teambit/angular-preview)                                                                                                         | 3434         |
 | [@teambit/dependencies.fs.linked-dependencies](https://www.npmjs.com/package/@teambit/dependencies.fs.linked-dependencies)                                                                 | 3138         |
 | [udp-io](https://www.npmjs.com/package/udp-io)                                                                                                                                             | 2256         |
 | [apollo-passport-mongodb-driver](https://www.npmjs.com/package/apollo-passport-mongodb-driver)                                                                                             | 2198         |
+| [@teambit/api-reference.hooks.use-api](https://www.npmjs.com/package/@teambit/api-reference.hooks.use-api)                                                                                 | 2117         |
 | [ya-storage](https://www.npmjs.com/package/ya-storage)                                                                                                                                     | 1754         |
 | [@teambit/design.info.icon-text](https://www.npmjs.com/package/@teambit/design.info.icon-text)                                                                                             | 1738         |
 | [apollo-passport-local-strategy](https://www.npmjs.com/package/apollo-passport-local-strategy)                                                                                             | 1540         |
@@ -260,5 +260,5 @@ All of my npm packages and their downloads
 | [@teambit/bvm.path](https://www.npmjs.com/package/@teambit/bvm.path)                                                                                                                       | 178          |
 | [@teambit/design.navigation.responsive-navbar](https://www.npmjs.com/package/@teambit/design.navigation.responsive-navbar)                                                                 | 152          |
 | [@teambit/explorer.ui.search.search-input](https://www.npmjs.com/package/@teambit/explorer.ui.search.search-input)                                                                         | 124          |
-| **Sum**                                                                                                                                                                                    | **39112027** |
+| **Sum**                                                                                                                                                                                    | **39113323** |
 <!-- AUTO-GENERATED-CONTENT:END -->
