@@ -237,7 +237,7 @@ All of my npm packages and their downloads
 | [@teambit/api-reference.renderers.type-literal](https://www.npmjs.com/package/@teambit/api-reference.renderers.type-literal)                                                               | 5343         |
 | [@teambit/api-reference.renderers.interface](https://www.npmjs.com/package/@teambit/api-reference.renderers.interface)                                                                     | 5295         |
 | [@teambit/api-reference.renderers.enum](https://www.npmjs.com/package/@teambit/api-reference.renderers.enum)                                                                               | 5288         |
-| [@teambit/api-reference.renderers.type](https://www.npmjs.com/package/@teambit/api-reference.renderers.type)                                                                               | 5184         |
+| [@teambit/api-reference.renderers.class](https://www.npmjs.com/package/@teambit/api-reference.renderers.class)                                                                             | 5272         |
 | [@teambit/component.ui.component-compare.utils.sort-logs](https://www.npmjs.com/package/@teambit/component.ui.component-compare.utils.sort-logs)                                           | 4830         |
 | [@teambit/design.ui.skeletons.sidebar-loader](https://www.npmjs.com/package/@teambit/design.ui.skeletons.sidebar-loader)                                                                   | 4632         |
 | [@teambit/design.ui.tag-label](https://www.npmjs.com/package/@teambit/design.ui.tag-label)                                                                                                 | 4603         |
@@ -260,5 +260,5 @@ All of my npm packages and their downloads
 | [@teambit/bvm.path](https://www.npmjs.com/package/@teambit/bvm.path)                                                                                                                       | 178          |
 | [@teambit/design.navigation.responsive-navbar](https://www.npmjs.com/package/@teambit/design.navigation.responsive-navbar)                                                                 | 152          |
 | [@teambit/explorer.ui.search.search-input](https://www.npmjs.com/package/@teambit/explorer.ui.search.search-input)                                                                         | 124          |
-| **Sum**                                                                                                                                                                                    | **39113323** |
+| **Sum**                                                                                                                                                                                    | **39113411** |
 <!-- AUTO-GENERATED-CONTENT:END -->
